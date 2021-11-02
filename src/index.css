@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: 'Libel';
+  src: local('Libel'), url(./fonts/Libel/libel-suit-rg.otf) format('truetype');
+}
